@@ -10,15 +10,11 @@ body{
 
 header{
   height: 100px;
-  border-bottom: 1px;
-  border-style: solid;
-  border-color: #ccc;
+  border-bottom: 1px solid #cccccc;
 }
 
 header nav{
-  border-bottom: 1px;
-  border-style: solid;
-  border-color: #cccccc;
+  float: right;
 }
 
 header nav ul{
