@@ -9,6 +9,10 @@ body {
 }
 
 header nav {
+  height: 100px;
+}
+
+header nav {
   border-bottom: 1px;
   border-style: solid;
   border-color: #cccccc;
